@@ -36,3 +36,6 @@ I am a Computer Science student at the University of Leeds, interested in **mach
 **Tools:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Fly.io](https://img.shields.io/badge/Fly.io-8A2BE2?style=for-the-badge&logo=flydotio&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
