@@ -4,7 +4,7 @@
 I am a Computer Science student at the University of Leeds, interested in **machine learning**, **backend development**, and **low-level programming**.
 
 ## 🚀 What I'm Up To
-- 🤖 Building ML-powered web apps  
+- 🤖 Using ML to help solve my day to day life
 - 💻 Experimenting with C++ and systems programming  
 - 🌐 Deploying full-stack projects with FastAPI, React, and PostgreSQL  
 
