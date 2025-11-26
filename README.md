@@ -6,7 +6,7 @@ I am a Computer Science student at the University of Leeds, interested in **mach
 ## 🚀 What I'm Up To
 - 🤖 Using ML to help solve my day to day life
 - 💻 Experimenting with C++ and systems programming  
-- 🌐 Deploying full-stack projects with FastAPI, React, and PostgreSQL  
+- 🌐 Deploying full-stack projects with FastAPI, React, and PostgreSQL
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmalik25/)  
