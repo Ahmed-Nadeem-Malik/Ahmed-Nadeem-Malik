@@ -8,9 +8,6 @@ I am a Computer Science student at the **University of Leeds**, interested in **
 - 💻 Experimenting with C++ in networking and systems programming  
 - 🌐 Deploying full-stack projects with HTMX, React, Django and Ktor
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmalik25/)  
-
 # 💻 Tech Stack:
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
