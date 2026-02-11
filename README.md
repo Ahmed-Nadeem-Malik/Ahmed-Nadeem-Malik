@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Ahmed</h1>
 
 # 💫 About Me:
-I am a Computer Science student at the **University of Leeds**, interested in **backend development**, and **low-level programming**. Previously a SWE intern at the **University Of Leeds** making a web app that help researchers identify green solvent alternatives, used Python/Django and Java/SpringBoot. Next summer I'll be joining HubSpot as a backend SWE intern!
+I am a Computer Science student at the **University of Leeds**, interested in **backend development**, and **low-level programming**. Previously a SWE intern at the **University Of Leeds** making a web app that help researchers identify green solvent alternatives, used Python/Django and Java/SpringBoot. Next summer I'll be joining **HubSpot** as a backend SWE intern!
 
 ## 🚀 What I'm Up To
 - 👾 Kotlin/Java to make games
