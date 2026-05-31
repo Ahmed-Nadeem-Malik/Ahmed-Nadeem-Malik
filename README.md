@@ -43,5 +43,5 @@ I am a Computer Science student at the **University of Leeds**, interested in **
 ![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-I use Neovim(btw)
+I use Neovim(btw)<br>
 I use Arch(btw)
