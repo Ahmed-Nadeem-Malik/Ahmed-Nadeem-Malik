@@ -1,47 +1,82 @@
-<h1 align="center">Hello World, I'm Ahmed</h1>
+# Hey, I'm Ahmed!
 
-# 💫 About Me:
-I am a Computer Science student at the **University of Leeds**, interested in **backend development**, and **low-level programming**. Previously a SWE intern at the **University Of Leeds** making a web app that help researchers identify green solvent alternatives, used Python/Django and Java/SpringBoot. Next summer I'll be joining **HubSpot** as a backend SWE intern!
+I'm a **Computer Science student at the University of Leeds**, interested in **backend engineering, distributed systems, infrastructure and low-level programming**.
+
+Previously a **Software Engineering Intern at HubSpot**, working on Developer Experience and CI infrastructure, and at the **University of Leeds**, developing a cheminformatics research platform.
+
+I enjoy building performant systems, understanding how things work under the hood, and occasionally reinventing the wheel for fun.
 
 ## 🚀 What I'm Up To
-- 👾 Kotlin/Java to make games
-- 💻 Experimenting with C++ in networking and systems programming  
-- 🌐 Deploying full-stack projects with HTMX, React, Django and Ktor
 
-# 💻 Tech Stack:
-**Languages:**  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+- ⚙️ Building high-performance systems with **C++ and Rust**
+- 🌐 Exploring **network programming, concurrency and distributed systems**
+- ☁️ Working with **Kubernetes, Docker and AWS**
+- 💻 Experimenting with **Kotlin/Java** and backend architectures
+- 🐧 Customising my Linux development environment with **Neovim and tmux**
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![htmx](https://img.shields.io/badge/htmx-%23000000.svg?style=for-the-badge&logo=htmx&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+## 🛠️ Featured Projects
 
-**Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Fly.io](https://img.shields.io/badge/Fly.io-8A2BE2?style=for-the-badge&logo=flydotio&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) 
-![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+### High-Performance Multithreaded HTTP Server
+**C++ · POSIX Sockets · Multithreading · Networking**
 
-I use Neovim(btw)<br>
-I use Arch(btw)
+Built an HTTP/1.1 server from scratch using POSIX TCP sockets and a custom thread pool.
+
+- Achieved **28,800 requests/sec** with **178µs latency**
+- Handled **1,000 concurrent connections** using a 14-worker thread pool
+- Processed **1.73 million requests in 60 seconds** with zero failures
+
+### Fault-Tolerant Distributed Key-Value Cache
+**Kotlin · Distributed Systems · Kubernetes · Docker**
+
+Built a Redis-compatible distributed in-memory cache using the RESP protocol over TCP.
+
+- Implemented **consistent hashing, primary-replica replication and automatic failover**
+- Deployed containerised nodes on Kubernetes with StatefulSets and HAProxy
+- Benchmarked **100,000 requests** with up to **500 concurrent clients**
+
+## 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Backend & Frameworks:**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=ktor&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![htmx](https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure & DevOps:**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Development Environment:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+
+---
+
+*I use Neovim (btw).*  
+*I use Arch (btw).*
